@@ -1,0 +1,6 @@
+{
+  "name": "祖冲之：割圆术可视化 (Zu Chongzhi's Pi Estimation)",
+  "description": "可视化展示祖冲之如何利用割圆术，通过不断增加内接正多边形的边数来精确计算圆周率的过程。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
